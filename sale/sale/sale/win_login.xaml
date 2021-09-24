@@ -67,7 +67,6 @@
         <Image HorizontalAlignment="Left" Height="82" Margin="34,19,0,0" VerticalAlignment="Top" Width="77" Source="/img/Login-icon.png"/>
         <Label Content="نام کاربری" HorizontalAlignment="Left" Margin="151,169,0,0" VerticalAlignment="Top" Width="248"/>
         <Label Content="رمز عبور" HorizontalAlignment="Left" Margin="249,229,0,0" VerticalAlignment="Top" Width="130"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="170,276,0,0" VerticalAlignment="Top" Width="75"/>
         <Grid HorizontalAlignment="Left" Height="100" Margin="404,195,0,0" VerticalAlignment="Top" Width="100"/>
 
     </Grid>
