@@ -1,0 +1,15 @@
+F:\sale app\sale\sale\bin\Debug\sale.exe.config
+F:\sale app\sale\sale\bin\Debug\sale.exe
+F:\sale app\sale\sale\bin\Debug\sale.pdb
+F:\sale app\sale\sale\obj\Debug\sale.csprojAssemblyReference.cache
+F:\sale app\sale\sale\obj\Debug\win_login.g.cs
+F:\sale app\sale\sale\obj\Debug\App.g.cs
+F:\sale app\sale\sale\obj\Debug\sale_MarkupCompile.cache
+F:\sale app\sale\sale\obj\Debug\sale_MarkupCompile.lref
+F:\sale app\sale\sale\obj\Debug\win_login.baml
+F:\sale app\sale\sale\obj\Debug\sale.g.resources
+F:\sale app\sale\sale\obj\Debug\sale.Properties.Resources.resources
+F:\sale app\sale\sale\obj\Debug\sale.csproj.GenerateResource.cache
+F:\sale app\sale\sale\obj\Debug\sale.csproj.CoreCompileInputs.cache
+F:\sale app\sale\sale\obj\Debug\sale.exe
+F:\sale app\sale\sale\obj\Debug\sale.pdb
